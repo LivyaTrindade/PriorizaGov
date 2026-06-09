@@ -38,6 +38,10 @@ O PriorizaGov é uma plataforma digital que utiliza Inteligência Artificial par
 
 A solução busca tornar o processo de registro, classificação e acompanhamento de solicitações mais eficiente, transparente e acessível.
 
+<p align="center">
+  <img src="assets/tela-inicial.png" alt="Tela Inicial PriorizaGov" width="900">
+</p>
+
 ## 🚨 Problema
 
 Muitas prefeituras enfrentam dificuldades para organizar e priorizar demandas recebidas da população.
