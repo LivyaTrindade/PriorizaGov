@@ -80,6 +80,7 @@ https://www.figma.com/design/u70vkswI82occMSrl7eafX/Prot%C3%B3tipo-AI---Prioriza
 - Notificações
 - Painel de transparência
 - Configurações de perfil
+  <img src="imagens/tela-cidadao.png" width="250">
 
 #### 🏛️ Área do Gestor
 - Dashboard gerencial
@@ -88,6 +89,7 @@ https://www.figma.com/design/u70vkswI82occMSrl7eafX/Prot%C3%B3tipo-AI---Prioriza
 - Mapa de demandas por região
 - Gestão de usuários
 - Configurações do sistema
+  <img src="imagens/tela-gestor.png" width="250">
 
 #### 🤖 PriorIA
 - Classificação inteligente de demandas
