@@ -25,6 +25,17 @@
 <img src="https://img.shields.io/badge/Projeto-Acadêmico-orange">
 
 </p>
+<p align="center">
+
+<a href="https://www.figma.com/proto/u70vkswI82occMSrl7eafX/Prot%C3%B3tipo-AI---Prioriza-Gov?node-id=21-125&starting-point-node-id=21%3A125">
+  <img src="https://img.shields.io/badge/Protótipo_Navegável-Figma-blue?style=for-the-badge&logo=figma">
+</a>
+
+<a href="https://www.figma.com/design/u70vkswI82occMSrl7eafX/Prot%C3%B3tipo-AI---Prioriza-Gov?node-id=5-1330&p=f&t=tPIeXsFn7YamfRYo-0">
+  <img src="https://img.shields.io/badge/Projeto_Completo-Figma-purple?style=for-the-badge&logo=figma">
+</a>
+
+</p>
 
 ## 📖 Sobre o Projeto
 
@@ -53,34 +64,41 @@ O PriorizaGov utiliza a inteligência artificial PriorIA para:
 - Gerar indicadores estratégicos
 - Apoiar gestores públicos
 
-## ✨ Funcionalidades
+## 🎨 Protótipo Navegável
 
-### 👤 Cidadão
+Explore o protótipo interativo do PriorizaGov desenvolvido no Figma:
 
+🔗 **Protótipo Navegável**
+https://www.figma.com/proto/u70vkswI82occMSrl7eafX/Prot%C3%B3tipo-AI---Prioriza-Gov?node-id=21-125&starting-point-node-id=21%3A125
+
+🔗 **Projeto Completo no Figma**
+https://www.figma.com/design/u70vkswI82occMSrl7eafX/Prot%C3%B3tipo-AI---Prioriza-Gov?node-id=5-1330&p=f&t=tPIeXsFn7YamfRYo-0
+
+---
+
+### 📱 Funcionalidades Prototipadas
+
+#### 👤 Área do Cidadão
+- Página inicial
 - Cadastro de solicitações
 - Acompanhamento de demandas
-- Histórico de solicitações
 - Notificações
 - Painel de transparência
+- Configurações de perfil
 
-### 🏛️ Gestor
-
-- Dashboard
-- Relatórios IA
-- Mapa de demandas
+#### 🏛️ Área do Gestor
+- Dashboard gerencial
+- Visualização de demandas
+- Relatórios gerados por IA
+- Mapa de demandas por região
 - Gestão de usuários
-- Análises e indicadores
+- Configurações do sistema
 
-## 🤖 PriorIA
-
-A PriorIA é a inteligência artificial responsável por auxiliar na análise das demandas.
-
-### Capacidades
-
-- Classificação automática
-- Identificação de categorias
+#### 🤖 PriorIA
+- Classificação inteligente de demandas
 - Sugestão de prioridade
-- Geração de insights
+- Apoio à tomada de decisão
+- Geração de insights para gestão pública
 
 ### Limitações
 
