@@ -2,11 +2,6 @@
   <img src="imagens/capa-priorizagov.png" width="100%">
 </p>
 
-<h1 align="center">🏛️ PriorizaGov</h1>
-
-<p align="center">
-  Inteligência para uma Gestão Pública Eficiente
-</p>
 
 <p align="center">
   Projeto Acadêmico de UX, Prototipação e Inteligência Artificial
