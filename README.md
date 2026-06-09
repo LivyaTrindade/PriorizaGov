@@ -53,7 +53,7 @@ O PriorizaGov utiliza a inteligência artificial PriorIA para:
 - Gerar indicadores estratégicos
 - Apoiar gestores públicos
 
-  ## ✨ Funcionalidades
+## ✨ Funcionalidades
 
 ### 👤 Cidadão
 
@@ -71,7 +71,7 @@ O PriorizaGov utiliza a inteligência artificial PriorIA para:
 - Gestão de usuários
 - Análises e indicadores
 
-  ## 🤖 PriorIA
+## 🤖 PriorIA
 
 A PriorIA é a inteligência artificial responsável por auxiliar na análise das demandas.
 
@@ -87,7 +87,7 @@ A PriorIA é a inteligência artificial responsável por auxiliar na análise da
 - Não substitui a decisão humana
 - Atua apenas como apoio à gestão
 
-  ## 🎨 Protótipo
+### 🎨 Protótipo
 
 O projeto foi desenvolvido utilizando:
 
@@ -97,7 +97,7 @@ O projeto foi desenvolvido utilizando:
 - Arquitetura da Informação
 - Testes de Usabilidade
 
-  ## 👨‍💻 Equipe
+## 👨‍💻 Equipe
 
 | Integrante | Responsabilidade |
 |------------|------------------|
@@ -105,12 +105,21 @@ O projeto foi desenvolvido utilizando:
 | Fernanda | Problema e Apresentação da Solução |
 | Vinicius | Jornada do Gestor e Validação |
 
+
 ---
 
 <p align="center">
+  <strong>🏛️ PriorizaGov</strong>
+</p>
 
-Desenvolvido para fins acadêmicos • 2026
+<p align="center">
+  Inteligência para uma Gestão Pública Eficiente
+</p>
 
-PriorizaGov ©
+<p align="center">
+  Projeto Acadêmico • 2026
+</p>
 
+<p align="center">
+  Livya • Fernanda • Vinicius
 </p>
