@@ -39,7 +39,7 @@ O PriorizaGov é uma plataforma digital que utiliza Inteligência Artificial par
 A solução busca tornar o processo de registro, classificação e acompanhamento de solicitações mais eficiente, transparente e acessível.
 
 <p align="center">
-  <img src="images/tela-inicial.png" alt="Tela Inicial PriorizaGov" width="900">
+  <img src="imagens/tela-inicial.png" alt="Tela Inicial PriorizaGov" width="900">
 </p>
 
 ## 🚨 Problema
@@ -98,18 +98,18 @@ https://www.figma.com/design/u70vkswI82occMSrl7eafX/Prot%C3%B3tipo-AI---Prioriza
 
 ### Portal do Cidadão
 
-O cidadão pode registrar solicitações, acompanhar demandas e visualizar informações públicas de forma simples e transparente.
+O cidadão pode reportar problemas, acompanhar solicitações, perguntas frequentes e visualizar informações públicas de forma simples e transparente.
 
 <p align="center">
-  <img src="images/tela-cidadao.png" width="900">
+  <img src="imagens/tela-cidadao.png" width="900">
 </p>
 
 ### Portal do Gestor
 
-O gestor possui acesso a dashboards, relatórios inteligentes e mapas de demandas para apoiar a tomada de decisão.
+O gestor possui acesso a todas as demandas, dashboards, relatórios inteligentes e mapas de demandas para apoiar a tomada de decisão.
 
 <p align="center">
-  <img src="images/tela-gestor.png" width="900">
+  <img src="imagens/tela-gestor.png" width="900">
 </p>
   
 
