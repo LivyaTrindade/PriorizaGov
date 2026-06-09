@@ -131,7 +131,6 @@ O projeto foi desenvolvido utilizando:
 - Figma
 - UX Design
 - UI Design
-- Arquitetura da Informação
 - Testes de Usabilidade
 
 ## 👨‍💻 Equipe
