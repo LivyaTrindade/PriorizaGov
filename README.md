@@ -71,7 +71,7 @@ Explore o protótipo interativo do PriorizaGov desenvolvido no Figma:
 https://www.figma.com/proto/u70vkswI82occMSrl7eafX/Prot%C3%B3tipo-AI---Prioriza-Gov?node-id=21-125&starting-point-node-id=21%3A125
 
 🔗 **Projeto Completo no Figma**
-https://www.figma.com/design/u70vkswI82occMSrl7eafX/Prot%C3%B3tipo-AI---Prioriza-Gov?node-id=5-1330&p=f&t=tPIeXsFn7YamfRYo-0
+https://www.figma.com/design/u70vkswI82occMSrl7eafX/Prot%C3%B3tipo-AI---Prioriza-Gov?node-id=0-1&p=f&t=cR6ZVG5eXm8UEsJi-0
 
 ---
 
