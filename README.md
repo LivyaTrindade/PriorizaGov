@@ -133,7 +133,7 @@ O projeto foi desenvolvido utilizando:
 - UI Design
 - Testes de Usabilidade
 
-## 👨‍💻 Equipe
+## 👨‍💻 Apresentação Equipe
 
 | Integrante | Responsabilidade |
 |------------|------------------|
@@ -157,5 +157,7 @@ O projeto foi desenvolvido utilizando:
 </p>
 
 <p align="center">
-  Livya • Fernanda • Vinicius
+  <a href="https://github.com/livyatrindade">Livya</a> • 
+  <a href="https://github.com/fernandaanacletob">Fernanda</a> • 
+  <a href="https://github.com/viniesr">Vinicius</a>
 </p>
